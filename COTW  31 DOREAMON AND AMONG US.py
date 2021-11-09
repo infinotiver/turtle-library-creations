@@ -285,7 +285,7 @@ for i in range(1,number+1):
 
 # In[8]:
 
-
+#AMONG US
 import turtle
 
 BODY_COLOR =  'red'
